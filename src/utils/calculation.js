@@ -27,8 +27,8 @@ const MULTIPLIERS = {
   },
   team: {
     'In-house': 1.0,
-    Mixed: 1.1,
-    'Partner-led': 1.2,
+    Mixed: 1.05,
+    'Partner-led': 1.15,
   },
   model: {
     'API-only': 1.0,
