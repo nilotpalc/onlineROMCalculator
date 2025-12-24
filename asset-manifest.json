@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/onlineROMCalculator/static/css/main.1ddafae4.css",
-    "main.js": "/onlineROMCalculator/static/js/main.3ecdc956.js",
+    "main.js": "/onlineROMCalculator/static/js/main.768cf2d6.js",
     "index.html": "/onlineROMCalculator/index.html",
     "main.1ddafae4.css.map": "/onlineROMCalculator/static/css/main.1ddafae4.css.map",
-    "main.3ecdc956.js.map": "/onlineROMCalculator/static/js/main.3ecdc956.js.map"
+    "main.768cf2d6.js.map": "/onlineROMCalculator/static/js/main.768cf2d6.js.map"
   },
   "entrypoints": [
     "static/css/main.1ddafae4.css",
-    "static/js/main.3ecdc956.js"
+    "static/js/main.768cf2d6.js"
   ]
 }
